@@ -14,6 +14,7 @@ Data Structures is organizing/structuring/managing the data in the memory and it
 - Primitive Data Structures
 - Non Primitive Data Structures
 
+
 #### Primitive
 
 Dillinger uses a number of open source projects to work properly:
@@ -24,7 +25,7 @@ Dillinger uses a number of open source projects to work properly:
 - Pointer
 - Boolean
 
-### Non Primitive
+#### Non Primitive
 
 -  Linear(Sequential)
 	- Stack
@@ -50,10 +51,42 @@ Dillinger uses a number of open source projects to work properly:
 		- HashSet
 		- TreeSet
 
-#### Common Operations performed
+### Common Operations performed
 
 - Searching
 - Sorting
 - Insertion
 - Updation
 - Deletion
+
+
+##  Algorithm
+
+A set of instructions or steps that applies on the data strucutures to solve a problem. 
+
+### Problem Statement
+
+-  The problem states that to find the best path between the two points source(home) to destination(school) having  he possible number of paths in the image.
+
+![Problem](img/Problem.png "ProblemStatement")
+
+### Identify Datastruture 
+
+-  Array
+-  HashTable
+
+![Problem](img/ProblemDS.png "ProblemDS")
+
+### Define Algorithm and apply
+
+![Problem](img/DSAlgo.png "DSAlgo")
+
+-  Efficiency of Algorithm depends upon the DataStructure
+
+
+
+
+
+
+
+
