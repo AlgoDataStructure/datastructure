@@ -77,16 +77,8 @@ A set of instructions or steps that applies on the data strucutures to solve a p
 
 ![Problem](img/ProblemDS.png "ProblemDS")
 
-### Define Algorithm and apply
+### Define Algorithm
+
+-  Apply Algorithm on Datastrucure and its efficiency and complexity varies based on the DataStructure.
 
 ![Problem](img/DSAlgo.png "DSAlgo")
-
--  Efficiency of Algorithm depends upon the DataStructure
-
-
-
-
-
-
-
-
