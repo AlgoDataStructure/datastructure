@@ -1,4 +1,5 @@
 # Introducton to Data Structure and Algorithms
+
 ## Why we need Data Structure?
 To examine the problem solving skills and for the following  skills
 
@@ -68,17 +69,17 @@ A set of instructions or steps that applies on the data strucutures to solve a p
 
 -  The problem states that to find the best path between the two points source(home) to destination(school) having  he possible number of paths in the image.
 
-![Problem](img/Problem.png "ProblemStatement")
+![Problem](images/Problem.png "ProblemStatement")
 
 ### Identify Datastruture 
 
 -  Array
 -  HashTable
 
-![Problem](img/ProblemDS.png "ProblemDS")
+![Problem](images/ProblemDS.png "ProblemDS")
 
 ### Define Algorithm
 
 -  Apply Algorithm on Datastrucure and its efficiency and complexity varies based on the DataStructure.
 
-![Problem](img/DSAlgo.png "DSAlgo")
+![Problem](images/DSAlgo.png "DSAlgo")
