@@ -10,50 +10,31 @@ It is classified into 3 types.
 2. Medium Case - Big Theta
 3. Worst Case - Big O
 
-## Complexities Representation:
 
-- `Big O(1):` Number of operation performed is 1 which is `sum`
-```
-a= 5
-b= 10
-sum = a+b
-```
+## What is Logarithm?
 
-- `Big O(n):` Operation performed varies by `n` in this case print is operation and it depends on 'n'
-```
-n= 5
-for(i=0;i<n;i++){
-    console.log(i);
-}
-```
-- `Big O(2n):` Number of operation performed varies by `n` in this case `print` is the operation in two blocks and it depends on 'n'
-```
-n= 5
-for(i=0;i<n;i++){
-    console.log(i);
-}
-for(i=0;i<n;i++){
-    console.log(i);
-}
-```
-- `Big O(n^2):` Number of operation performed varies by `n` in this case `print` is the operation in Nested blocks and it depends on 'n'
-```
-n= 5
-for(i=0;i<n;i++){
-  for(j=0;j<n;j++){
-    console.log(i,j);
-  }
-}
-```
-- `Big O(log(n)):` 
-Spliting the array until we reach single element in an array. Steps to spit,
+In Maths log means log<sub>10</sub>, in Computer science log<sub>2</sub>.
 
-  - Step 1: Split the array by 2
-  - Step 2: Further split the Array[0] by 2
-  - Step 3: Further split the Array[0][0] by 2
-  - Step 4: Repeat untill you find the single element
 
-  For array of lenght 3 the Log notation will be Log2 8 = 3
+- log<sub>2</sub> 16 = ?; 2<sup>4</sup> = 16; log<sub>2</sub> `16 = 4`;
 
-- `Big O(nlog(n))`: To perform single element for each element in an Array. Merge Sort: `nlog(n)`
+- log<sub>2</sub> `8 = ?`; 2<sup>3</sup> = 8; log<sub>2</sub> `8 = 3;`
 
+- log<sub>2</sub> `12 =?`; 2<sup>3</sup> = 8; 2<sup>4</sup> = 16; log<sub>2</sub> `12 = 3.5`
+
+# Very Important concept to understand before going deep inside Time and Space complexity.
+
+## Order of Complexity from fastest to slowest
+
+1. Constant: O(1)
+2. Logarithmic: O(log(n))
+3. Linear: O(n)
+4. Log-Linear: O(nlog(n))
+5. Quadratic: O(n<sup>2</sup>) 
+6. Cubic: O(n<sup>3</sup>)
+7. Exponential: O(2<sup>n</sup>)
+8. Factorial: O(n!) 
+
+## Complexity Chart
+
+![Big O Complexity Chart](../images/BigOComplexityChart.jpeg "BigOComplexityChart")
