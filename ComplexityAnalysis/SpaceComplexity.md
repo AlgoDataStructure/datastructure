@@ -40,7 +40,7 @@ Space complexity = Input Size + Auxillary Space.
 
 ## To design the algorithm
  
- Time complexity is inversely proportional to the space complexity. So the time complexity can be lower if the space complexity is higher.
+Time complexity is inversely proportional to the space complexity. So the time complexity can be lower if the space complexity is higher.
 
 
 Fibonacci 
