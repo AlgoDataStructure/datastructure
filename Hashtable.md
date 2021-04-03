@@ -1,3 +1,17 @@
+<div align="right">
+    <b><a href="README.md">↥ back to Index</a></b>
+</div>
+
+Table of Contents
+=================
+
+   * [HashTable](#hashtable)
+      * [Hashing is implemented in two steps:](#hashing-is-implemented-in-two-steps)
+      * [Hash table collisions](#hash-table-collisions)
+      * [Time and Space Complexity](#time-and-space-complexity)
+      * [Uses of hash tables](#uses-of-hash-tables)
+      * [Referencese](#referencese)
+
 # HashTable
 
 Hash table is a fast datastruture. Hash table will be a `key:value` pair where key is considered mostly as a `Alphanumeric`. Under the hood HashTable uses a dynamic array of linkedlist to efficiently store key, value pair.
@@ -60,7 +74,7 @@ In terms of time complexity, the operation is 0(1)0(1). On average, a hash table
 - Lookup in an unsorted array
 - Lookup in sorted array using binary search
 
-## Referencese
+## References
 
 - https://www.youtube.com/watch?v=KyUTuwz_b7Q
 - https://www.educative.io/blog/data-strucutres-hash-table-javascript

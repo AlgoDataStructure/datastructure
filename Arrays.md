@@ -1,4 +1,17 @@
+<div align="right">
+    <b><a href="README.md">↥ back to Index</a></b>
+</div>
 
+Table of Contents
+=================
+
+   * [Arrays in Data Structure](#arrays-in-data-structure)
+      * [How data will be stored in array?](#how-data-will-be-stored-in-array)
+         * [Array Operations:](#array-operations)
+      * [What Static Array?](#what-static-array)
+         * [Complexities](#complexities)
+      * [What Dynamic Array?](#what-dynamic-array)
+      
 # Arrays in Data Structure
 
 ## How data will be stored in array?

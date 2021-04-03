@@ -1,3 +1,20 @@
+<div align="right">
+    <b><a href="README.md">↥ back to Index</a></b>
+</div>
+
+Table of Contents
+=================
+
+   * [LinkedList in Data Structure](#linkedlist-in-data-structure)
+      * [What is the linked list ?](#what-is-the-linked-list-)
+      * [Memory Storage](#memory-storage)
+      * [linked list vs Array](#linked-list-vs-array)
+         * [Pros](#pros)
+         * [Cons](#cons)
+      * [Linked List Types:](#linked-list-types)
+      * [Linked List Operations:](#linked-list-operations)
+      * [Practical Use case:](#practical-use-case)
+      
 # LinkedList in Data Structure
 
 ## What is the linked list ? 
