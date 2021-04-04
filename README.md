@@ -1,3 +1,22 @@
+Table of Contents
+=================
+
+   * [Introducton to Data Structure and Algorithms](#introducton-to-data-structure-and-algorithms)
+      * [Why we need Data Structure?](#why-we-need-data-structure)
+      * [Data Structures](#data-structures)
+         * [Classification](#classification)
+            * [Primitive](#primitive)
+            * [Non Primitive](#non-primitive)
+         * [Common Operations performed](#common-operations-performed)
+		* [Detailed Analysis]()
+			* [Arrays](Arrays.md)
+			* [Linked List](Linkedlist.md)
+			* [Hash Table](Hashtable.md)
+      * [Algorithm](#algorithm)
+         * [Problem Statement](#problem-statement)
+         * [Identify Datastruture](#identify-datastruture)
+         * [Define Algorithm](#define-algorithm)
+
 # Introducton to Data Structure and Algorithms
 
 ## Why we need Data Structure?
