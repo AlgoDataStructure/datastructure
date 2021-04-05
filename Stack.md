@@ -1,3 +1,15 @@
+<div align="right">
+    <b><a href="README.md">↥ back to Index</a></b>
+</div>
+
+Table of Contents
+=================
+
+   * [Stack in Data Structure](#stack)
+      * [Basic Operations](#basic-operations)
+      * [Time and Space Complexity](#time-and-space-complexity)
+      * [Example](#example)
+
 # Stack
 
 An array like data structure, whose element follow the LIFO(Last In First Out) rule
@@ -7,7 +19,11 @@ An array like data structure, whose element follow the LIFO(Last In First Out) r
 ## Basic Operations
 
 - push
-- pop 
+  - insert element x at the top of stack.
+- pop
+  - removes element from the top of stack.
+- peep
+  - To find n th element from stack.
 
 ## Time and Space Complexity
 
