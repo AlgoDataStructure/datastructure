@@ -14,6 +14,7 @@ Table of Contents
 			* [Hash Table](Hashtable.md)
 			* [Stack](Stack.md)
 			* [Queue](Queue.md)
+			* [Strings](Strings.md)
       * [Algorithm](#algorithm)
          * [Problem Statement](#problem-statement)
          * [Identify Datastruture](#identify-datastruture)
