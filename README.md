@@ -12,6 +12,8 @@ Table of Contents
 			* [Arrays](Arrays.md)
 			* [Linked List](Linkedlist.md)
 			* [Hash Table](Hashtable.md)
+			* [Stack](Stack.md)
+			* [Queue](Queue.md)
       * [Algorithm](#algorithm)
          * [Problem Statement](#problem-statement)
          * [Identify Datastruture](#identify-datastruture)
