@@ -55,12 +55,12 @@ Table of Contents
 - Depth First Traversal 
      - DFT uses Depth First Search approach before traversing the sibling node child node need to traverse.
      
-  ![DFS](images/DFS/DFS.png "DFS")        
+  ![DFS](images/Graph/DFS.png "DFS")        
 
 - Breadth First Traversal
      - BFT uses Breadth First Search approach firstly the sibling node need to be traverse and Secondly, child node need to traverse.
   
-  ![BFS](images/BFS/BFS.png "BFS")    
+  ![BFS](images/Graph/BFS.png "BFS")    
 
 ## Time and Space Complexity
 
