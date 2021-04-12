@@ -1,3 +1,7 @@
+<div align="right">
+    <b><a href="README.md">↥ back to Index</a></b>
+</div>
+
 Table of Contents
 =================
 
