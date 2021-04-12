@@ -1,8 +1,23 @@
-# What is Complexity Analysis? Why it's needed?
+<div align="right">
+    <b><a href="README.md">↥ back to Index</a></b>
+</div>
+
+Table of Contents
+=================
+
+   * [Complexity Analysis](#complexity-analysis)
+      * [Types](#types)
+      * [Logarithm](#logarithm)
+      * [Order of Complexity from fastest to slowest](#order-of-complexity-from-fastest-to-slowest)
+      * [Complexity Chart](#complexity-chart)
+      
+# Complexity Analysis
 
 The process of determining how efficient the algorithm is. Complexity analysis involves both Time and Space Complexities of an Algorithm.
 
 It's needed to determine the better algorithm for the purpose.
+
+## Types
 
 It is classified into 3 types.
 
@@ -11,7 +26,7 @@ It is classified into 3 types.
 3. Worst Case - Big O
 
 
-## What is Logarithm?
+## Logarithm
 
 In Maths log means log<sub>10</sub>, in Computer science log<sub>2</sub>.
 
@@ -22,9 +37,9 @@ In Maths log means log<sub>10</sub>, in Computer science log<sub>2</sub>.
 
 - log<sub>2</sub> `12 =?`; 2<sup>3</sup> = 8; 2<sup>4</sup> = 16; log<sub>2</sub> `12 = 3.5`
 
-# Very Important concept to understand before going deep inside Time and Space complexity.
-
 ## Order of Complexity from fastest to slowest
+
+Very Important concept to understand before going deep inside Time and Space complexity.
 
 1. Constant: O(1)
 2. Logarithmic: O(log(n))
@@ -37,4 +52,4 @@ In Maths log means log<sub>10</sub>, in Computer science log<sub>2</sub>.
 
 ## Complexity Chart
 
-![Big O Complexity Chart](../images/BigOComplexityChart.jpeg "BigOComplexityChart")
+![Big O Complexity Chart](images/BigOComplexityChart.jpeg "BigOComplexityChart")
