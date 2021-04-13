@@ -1,3 +1,17 @@
+<div align="right">
+    <b><a href="README.md">↥ back to Index</a></b>
+</div>
+
+Table of Contents
+=================
+
+   * [Memory](#memory)
+      * [First things first - Basic](#first-things-first---basic)
+         * [What is Bit?](#what-is-bit)
+         * [What is a Byte?](#what-is-a-byte)
+         * [What is Fixed-Width integer?](#what-is-fixed-width-integer)
+      * [Important points to note on Memory](#important-points-to-note-on-memory)
+
 # Memory
 
 The bedrock of all data structures, memory is the underlying concept that you absolutely need to know in order to understand why data structures work the way they do.
@@ -14,7 +28,7 @@ The bedrock of all data structures, memory is the underlying concept that you ab
 
 A byte is 8 bits. A byte considered as a unit of memory size. A single byte can represent upto 256 data values( 2<sup>8</sup>)
 
-![Problem](../images/BitsAndBytes.svg.png "ProblemStatement")
+![Problem](images/BitsAndBytes.svg.png "ProblemStatement")
 
 ### What is Fixed-Width integer?
 

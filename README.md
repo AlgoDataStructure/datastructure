@@ -8,17 +8,23 @@ Table of Contents
             * [Primitive](#primitive)
             * [Non Primitive](#non-primitive)
          * [Common Operations performed](#common-operations-performed)
-		* [Detailed Analysis]()
+      * [Algorithm](#algorithm)
+         * [Problem Statement](#problem-statement)
+         * [Identify Datastruture](#identify-datastruture)
+         * [Define Algorithm](#define-algorithm)
+   * [Data Strucutre - Analysis & Implementations]()
+		* [Analysis]()
+			* [Complexity](Complexity.md)
+				* [Time Complexity](TimeComplexity.md)	
+				* [Space Complexity](SpaceComplexity.md)	
+			* [Memory](Memory.md)	
+		* [Implementations]()    
 			* [Arrays](Arrays.md)
 			* [Linked List](Linkedlist.md)
 			* [Hash Table](Hashtable.md)
 			* [Stack](Stack.md)
 			* [Queue](Queue.md)
 			* [Strings](Strings.md)
-      * [Algorithm](#algorithm)
-         * [Problem Statement](#problem-statement)
-         * [Identify Datastruture](#identify-datastruture)
-         * [Define Algorithm](#define-algorithm)
 
 # Introducton to Data Structure and Algorithms
 
@@ -36,7 +42,6 @@ Data Structures is organizing/structuring/managing the data in the memory and it
 
 - Primitive Data Structures
 - Non Primitive Data Structures
-
 
 #### Primitive
 
@@ -81,7 +86,6 @@ Dillinger uses a number of open source projects to work properly:
 - Insertion
 - Updation
 - Deletion
-
 
 ##  Algorithm
 

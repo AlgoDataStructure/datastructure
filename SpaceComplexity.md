@@ -1,3 +1,16 @@
+<div align="right">
+    <b><a href="README.md">↥ back to Index</a></b>
+</div>
+
+Table of Contents
+=================
+
+   * [Space complexity](#space-complexity)
+      * [Fixed part  - Independant](#fixed-part----independant)
+      * [Variable part   - Dependant](#variable-part-----dependant)
+      * [Auxillary Space](#auxillary-space)
+      * [To design the algorithm](#to-design-the-algorithm)
+
 # Space complexity
 
 Space complexity of an algorithm quantifies the amount of space or memory taken by an algorithm to solve the computational problem.

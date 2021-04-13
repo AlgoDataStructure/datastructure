@@ -1,4 +1,21 @@
-# What is Time complexity?
+<div align="right">
+    <b><a href="README.md">↥ back to Index</a></b>
+</div>
+
+Table of Contents
+=================
+
+   * [Time complexity](#time-complexity)
+      * [Linear Time](#linear-time)
+      * [Constant Time](#constant-time)
+      * [Logarithmic Time](#logarithmic-time)
+         * [0(nlogn)](#0nlogn)
+         * [0(n^2)](#0n2)
+         * [0(2^n) - Exponential Time](#02n---exponential-time)
+         * [0(n!) - Factorial Time](#0n---factorial-time)
+      * [Few more examples](#few-more-examples)
+      
+# Time complexity
 
 Time complexity of an algorithm quantifies the amount of time taken by an algorithm to solve the computational problem.
 
