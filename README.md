@@ -27,6 +27,7 @@ Table of Contents
 			* [Strings](Strings.md)
 			* [Graph](Graph.md)
 			* [Trees](Trees.md)
+   * [Data Strucutre - Complexity Chart](#complexity-chart)
 
 # Introducton to Data Structure and Algorithms
 
@@ -111,3 +112,8 @@ A set of instructions or steps that applies on the data strucutures to solve a p
 -  Apply Algorithm on Datastrucure and its efficiency and complexity varies based on the DataStructure.
 
 ![Problem](images/DSAlgo.png "DSAlgo")
+
+
+## Complexity Chart
+
+![Complexity Chart](images/DS_Complexity.png "Complexity Chart")
