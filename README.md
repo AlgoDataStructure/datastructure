@@ -12,19 +12,22 @@ Table of Contents
          * [Problem Statement](#problem-statement)
          * [Identify Datastruture](#identify-datastruture)
          * [Define Algorithm](#define-algorithm)
-   * [Data Strucutre - Analysis & Implementations]()
-		* [Analysis]()
+   * [Data Strucutre - Analysis & Implementations](#table-of-contents)
+		* [Analysis](#table-of-contents)
 			* [Complexity](Complexity.md)
 				* [Time Complexity](TimeComplexity.md)	
 				* [Space Complexity](SpaceComplexity.md)	
 			* [Memory](Memory.md)	
-		* [Implementations]()    
+		* [Implementations](#table-of-contents)    
 			* [Arrays](Arrays.md)
 			* [Linked List](Linkedlist.md)
 			* [Hash Table](Hashtable.md)
 			* [Stack](Stack.md)
 			* [Queue](Queue.md)
 			* [Strings](Strings.md)
+			* [Graph](Graph.md)
+			* [Trees](Trees.md)
+   * [Data Strucutre - Complexity Chart](#complexity-chart)
 
 # Introducton to Data Structure and Algorithms
 
@@ -109,3 +112,8 @@ A set of instructions or steps that applies on the data strucutures to solve a p
 -  Apply Algorithm on Datastrucure and its efficiency and complexity varies based on the DataStructure.
 
 ![Problem](images/DSAlgo.png "DSAlgo")
+
+
+## Complexity Chart
+
+![Complexity Chart](images/DS_Complexity.png "Complexity Chart")
