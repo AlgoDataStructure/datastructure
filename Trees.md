@@ -23,11 +23,11 @@ A data structure that consists of nodes, each with some value and pointers to ch
 
 ## Tree
 
-The first node in a tree is referred to as the **root** of the tree, while the nodes at the bottom of a tree (the nodes with no child-nodes) are referred to as **leaf nodes** or simply **leaves**. The paths between the root of a tree and its leaves are called **branches**, and the **height** of a tree is the length of its longest branch. The **depth** of a tree node is its distance from its tree's root; this is also known as the node's **level** in the tree.
+The first node in a tree is referred to as the **root** of the tree, while the nodes at the bottom of a tree (the nodes with no child-nodes) are referred to as **leaf nodes** or simply **leaves**. The paths between the root of a tree and its leaves are called **branches**, and the **height** of a tree is the length of its longest branch. The **depth** of a tree node is its distance from its tree's root; 
 
 A tree is effectively a **graph** that's **connected**, **directed**, and **acyclic**, that has an explicit root node, and whose nodes all have a single **parent** (except for the root node, which effectively has no parent). Note that in most implementations of trees, tree nodes don't have a pointer to their parent, but they can if desired.
 
-There are many types of trees and tree-like structures, including **binary trees**, **heaps**, and **tries**.
+There are many types of trees and tree-like structures, including **binary trees** and **heaps**
 
 ## Binary Tree
 
@@ -41,7 +41,7 @@ A **tree** whose nodes have up to **k** child-nodes. A **binary tree** is a k-ar
 
 ## Perfect Binary Tree
 
-A **binary tree** whose interior nodes all have two child-nodes and whose **leaf nodes** all have the same **depth**.
+A **binary tree** whose interior nodes all have two child-nodes and whose **leaf nodes** all have the same **level**.
 
 Example:
 
